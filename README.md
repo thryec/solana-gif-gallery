@@ -1,4 +1,4 @@
-# Solana GIF Portal Project
+# Solana GIF Gallery
 
 ### About
 
